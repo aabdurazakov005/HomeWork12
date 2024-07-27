@@ -8,5 +8,6 @@ public class Main {
 
         drow.setYear(1991);
         System.out.println("Книга: " + drow.getName() + " " + "Автор: " + drow.getAuthor().getFirstName() + " " + drow.getAuthor().getSecondName() + " Год выпуска: " + drow.getYear());
+        System.out.println(java);
     }
 }
